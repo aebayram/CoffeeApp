@@ -1,0 +1,8 @@
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\bin\Debug\CoffeeApp.exe.config
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\bin\Debug\CoffeeApp.exe
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\bin\Debug\CoffeeApp.pdb
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.AssemblyReference.cache
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\obj\Debug\CoffeeApp.csproj.CoreCompileInputs.cache
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\obj\Debug\CoffeeApp.exe
+C:\Users\A.EBRU BAYRAM\source\repos\CoffeeApp\obj\Debug\CoffeeApp.pdb
